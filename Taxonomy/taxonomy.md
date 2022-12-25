@@ -2,6 +2,4 @@
 
 -----
 
-1. 
-
-[동물](Animal/animal.md)
+[1. 동물](Animal/animal.md)
