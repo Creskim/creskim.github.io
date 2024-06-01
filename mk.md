@@ -13,7 +13,7 @@
 - 각 국의 정상들이 취임을 할 때면, 김민권에게 카톡으로 인사를 올리는 암묵적인 의식이 있다.
 
 ## 2. 능력과 흑막 설
-그동안 루피의 마지막 적으로 예상되었던 [임](https://namu.wiki/w/%EC%9E%84(%EC%9B%90%ED%94%BC%EC%8A%A4)), [오로성](https://namu.wiki/w/%EC%98%A4%EB%A1%9C%EC%84%B1), [검은수염](ih.md), [아카이누](ys.md) 등을 제치고 단연 최종 흑막으로 떠오른 인물이다. 타인의 모발을 사라지게 만들거나 머리 크기를 임의로 조절할 수 있는 [머리머리열매](https://namu.wiki/w/%ED%83%88%EB%AA%A8%20%EA%B0%A4%EB%9F%AC%EB%A6%AC?from=%EC%9E%90%EB%9D%BC%EB%82%98%EB%9D%BC%20%EB%A8%B8%EB%A6%AC%EB%A8%B8%EB%A6%AC#s-3) 능력자로 추측된다. 자신의 머리 상태도 열매 능력으로 만들었는가까지는 불명.
+그동안 루피의 마지막 적으로 예상되었던 [임](https://namu.wiki/w/%EC%9E%84(%EC%9B%90%ED%94%BC%EC%8A%A4)), [오로성](https://namu.wiki/w/%EC%98%A4%EB%A1%9C%EC%84%B1), [검은수염](ih.md), [아카이누](ys.md) 등을 제치고 단연 최종 흑막으로 떠오른 인물이다. 
 
 ## 3. 성향
 ![ex_screenshot](./image/김민권-구세군-대의.png)
