@@ -1,5 +1,5 @@
 # 송승호
-<img src="./image/송승호-자타공인괴인.jpg" width="400">
+<img src="./image/송승호-자타공인괴인.jpg" width="400" /><br />
 괴인이 되고 싶은 일반인이다.
 
 ## 1. 정치색
