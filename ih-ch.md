@@ -1,8 +1,8 @@
 # 尚派拉
 - 한국어 문서는 [여기](ih.md)를 참고하십시오.
-<p>许仁浩是代表大韩民国的社会不适应者,虽然犯下了各种奇行,但他的特点是不知道自己的行为是奇行。</p><br/>
-<br/>
-[![Video Label](http://img.youtube.com/vi/ckrHOIwoAKw/0.jpg)](https://youtu.be/watch?v=ckrHOIwoAKw)<br/>
+
+许仁浩是代表大韩民国的社会不适应者,虽然犯下了各种奇行,但他的特点是不知道自己的行为是奇行。<br/>
+<br/>[![Video Label](http://img.youtube.com/vi/ckrHOIwoAKw/0.jpg)](https://youtu.be/watch?v=ckrHOIwoAKw)<br/>
 在《killing humans》中也曾介绍过。 按下缩略图,就会跳转到相关YouTube视频链接。
 
 ## 关于许仁浩地几个事实
@@ -10,7 +10,7 @@
 - 许仁浩是最佳演员。
 - 许仁浩打哈欠时，在场的人也会打哈欠。 这是因为遗传上刻印着对许仁浩的恐惧。
 - 许仁浩在打哈欠的时候也在看日佳。
-- 许仁浩和（cw.md ）结婚了。
+- 许仁[浩和](cw.md)结婚了。
 - 许仁浩在与郑灿宇的婚礼上也在看日佳。
 - 正在用郑灿宇的ID看。
 - 许仁浩打英雄联盟的时候拿着两个闪光灯开始。
