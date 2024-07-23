@@ -5,9 +5,9 @@
 ### 1-1. 영화
 <table>
   <tr>
-    <th scope="col">제목</td>
-    <th scope="col">한 줄 평</td>
-    <th scope="col">평점</td>
+    <th scope="col">제목</th>
+    <th scope="col">한 줄 평</th>
+    <th scope="col">평점</th>
   </tr>
   <tr>
     <td>#살아있다</td>
