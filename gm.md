@@ -48,6 +48,6 @@
 |Eve|Rapsody|이브를 시작으로 트랙 리스트의 여성들을 지나 비로소 랩소디까지.|★★★★☆|
 |FANAttitude|화나|우리는 언제쯤 하모니를 이룰 수 있을까?|★★★★☆|
 |Tetsuo & Youth|Lupe Fiasco|그의 계절이 몰고 오는 온도의 향연.|★★★★☆|
-|To Pimp A Butterfly|Kendrick Lamar|캄튼에서 재현된 21세기 앵무새 죽이기.|★★★★★|
+|To Pimp A Butterfly|Kendrick Lamar|캄튼에서 재탄생한 21세기 앵무새 죽이기.|★★★★★|
 |ZISSOU|화지|어지러운 시대를 활보하는 화지라는 도피처.|★★★★☆|
 
