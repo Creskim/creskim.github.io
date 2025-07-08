@@ -1,4 +1,4 @@
-전# 김민권
+# 김민권
 김민권은 대한민국에 거주하고 있는 천룡인이다. 천룡인이기 때문에 수많은 기행을 벌였음에도 그 누구도 감히 비난하지 못한다. <br/>
 <br/>
 [![Video Label](http://img.youtube.com/vi/smSqDedymbQ/0.jpg)](https://youtu.be/smSqDedymbQ)<br/>
