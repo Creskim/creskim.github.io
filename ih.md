@@ -1,4 +1,5 @@
 # 허인호
+헤어졌다. (Hair has lost)
 허인호는 대한민국을 대표하는 사회부적응자로, 온갖 기행을 저지르고 다니지만 본인의 행동이 기행인지도 모르는 것이 특징이다.<br/>
 <br/>
 [![Video Label](http://img.youtube.com/vi/ckrHOIwoAKw/0.jpg)](https://youtu.be/watch?v=ckrHOIwoAKw)<br/>
