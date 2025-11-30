@@ -1,5 +1,6 @@
 # 여소영
 대한민국의 쥐.
+![profile](./image/ssy/profile.png)
 
 # 1. 개요
 
