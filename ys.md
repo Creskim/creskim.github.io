@@ -1,5 +1,5 @@
 # 안윤섭
-![ex_screenshot](./image/ys/profile.png)
+![profile](./image/ys/profile.png)
 
 안윤섭은 소련이 비밀리에 개발한 인공지능 로봇으로, 주 동력은 콜라이다. 세계적인 학술지 <원피스>에 등장하는 프랑키의 모티브가 되기도 했다.
 
