@@ -1,5 +1,5 @@
 # 여소영
-<img src="./image/ssy/profile.png" width="400px"><br/>
+<img src="./image/ssy/profile.png" width="300px"><br/>
 대한민국의 쥐.
 
 ## 1. 개요
